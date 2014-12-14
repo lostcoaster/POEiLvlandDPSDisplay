@@ -11,12 +11,12 @@ Orb of Transmutation|40:1
 Orb of Augmentation|30:1
 Blacksmith's Whetstone|40:1
 Chromatic Orb|10:1
-Orb of Alteration|10:1
-Jeweller's Orb|7:1
+Orb of Alteration|7:1
+Jeweller's Orb|6:1
 Orb of Chance|7:1
 Cartographer's Chisel|2.5:1
 Glassblower's Bauble|10:1
-Orb of Fusing|2:1
+Orb of Fusing|1.5:1
 Orb of Alchemy|2.5:1
 Orb of Scouring|2:1
 Blessed Orb|1.4:1
