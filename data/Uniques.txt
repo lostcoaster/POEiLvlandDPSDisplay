@@ -57,7 +57,8 @@ Shavronne's Revelation|@15-25:to maximum Energy Shield|60-75:to Intelligence|Rig
 The Taming|@8-10:to all Elemental Resistances|15:increased Elemental Damage with Weapons|10-15:to all Elemental Resistances|15:increased Elemental Damage|5:chance to Freeze, Shock and Ignite|10:increased damage per Freeze, Shock and Ignite on enemy
 Thief's Torment|@8-10:to all Elemental Resistances|20-30:Life gained for each enemy hit by your Attacks|15:Mana gained for each enemy hit by your Attacks|8-12:to all Elemental Resistances|15-25:increased Quantity of Items found|50:Reduced Effect of Curses on You|Can't use other Rings
 Voideye|@1 Socket|5:to Level of Gems in this item
-
+Bloodboil|@20-30 to maximum Life|7-10,15-20:Adds Fire Damage|20-40:to maximum Life|10-15:to Cold Resistance|45:reduced Effect of Chill on You|100:increased Ignite Duration on You
+Sibyl's Lament|@20-30:to maximum Life|20-30:increased Elemental Damage with Weapons|8¨C20,15¨C28:Adds Fire Damage|20-40:reduced Rarity of Items found|Left ring slot: 30% reduced Reflected Elemental Damage taken|Right ring slot: 30% reduced Reflected Physical Damage taken
 ; -------- Quivers ---------
 
 Asphyxia's Wrath|@20-30:increased Accuracy Rating|8-12:increased Attack Speed|30-40:to Cold Resistance|30-40:increased Chill Duration on enemies|20:of Physical Damage Converted to Cold Damage|7-10:chance to Freeze|40:reduced Radius of Curses|Curses on Slain enemies are transferred to a nearby enemy
