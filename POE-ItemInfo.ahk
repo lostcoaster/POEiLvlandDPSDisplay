@@ -1,4 +1,4 @@
-; Path of Exile Item Info Tooltip
+ï»¿; Path of Exile Item Info Tooltip
 ;
 ; Version: 1.8.0 (hazydoc / IGN:Sadou)
 ;
@@ -198,7 +198,7 @@ ValueRangeFieldWidth = 7        ; Width of field that displays the affix' value 
 AffixDetailDelimiter := " "     ; Field delimiter for affix detail lines. This is put between value range fields. If this value were set to a comma, the above
                                 ; double range example would become 132-179,168-189.
 
-AffixDetailEllipsis := "…"      ; If the MirrorLineFieldWidth is set to a value that is smaller than the actual length of the affix line text
+AffixDetailEllipsis := "â€¦"      ; If the MirrorLineFieldWidth is set to a value that is smaller than the actual length of the affix line text
                                 ; the affix line will be cut off and this text will be appended at the end to indicate tha the line was truncated.
                                 ;
                                 ; Usually this is set to the ASCII or Unicode value of the three dot ellipsis (alt code: 0133).
@@ -207,7 +207,7 @@ AffixDetailEllipsis := "…"      ; If the MirrorLineFieldWidth is set to a value 
                                 ; either ANSI based AutoHotkey or Unicode based AutoHotkey.
                                 ;
                                 ; Example: assume the affix line to be mirrored is '+#% increased Spell Damage'.
-                                ; If the MirrorLineFieldWidth is set to 18, this field would be shown as '+#% increased Spel…'
+                                ; If the MirrorLineFieldWidth is set to 18, this field would be shown as '+#% increased Spel?
 
 PutResultsOnClipboard = 0       ; Put result text on clipboard (overwriting the textual representation the game put there to begin with)
 
